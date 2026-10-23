@@ -12,8 +12,7 @@ This project explores a cybersecurity-inspired enterprise interface with a dark 
 **Status:** Concept design
 
 ## Design Preview
-
-![Active Directory Forest Recovery UI Concept](active-directory-forest-recovery.png.png)
+![Active Directory Forest Recovery UI Concept](active-directory-forest-recovery.png)
 
 ## Design Goals
 
@@ -44,7 +43,7 @@ This project explores a cybersecurity-inspired enterprise interface with a dark 
 
 ## Figma Source
 
-Add your Figma design link here: **[View the design in Figma]
+Add your Figma design link here: **[https://www.figma.com/design/czIp482JcwhXX81G1GCkvJ/Untitled?node-id=5-20&t=SrM6EqDaHNcHS9xZ-1](https://www.figma.com/design/czIp482JcwhXX81G1GCkvJ/Untitled?node-id=5-20&t=SrM6EqDaHNcHS9xZ-1)
 
 ## Disclaimer
 
